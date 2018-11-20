@@ -1,0 +1,15 @@
+{
+  "name": "Typer",
+  "version": "1.0.0",
+  "description": "A typing game written in Plain JS",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Siddhant Misra",
+  "license": "",
+  "homepage": "",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
