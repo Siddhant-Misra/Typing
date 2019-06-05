@@ -6,4 +6,4 @@
 
 Run index.html in a browser.
 
-Try it -
+Try it - https://siddhant-misra.github.io/Typing/
